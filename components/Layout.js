@@ -8,13 +8,12 @@ export default function Main() {
         <div className="max-w-8xl mx-auto inline-block items-center p-3 pt-0 lg:flex lg:flex-wrap lg:pt-4">
           <div className="lg:w-3/6">
             <h2 className="max-w-xl lg:text-[4.2em] text-3xl font-bold leading-none text-black inline-block">
-              Vel quis feugiat pharetra diam.
+            Experience RB Construction's Expertise
             </h2>
 
             <p className="mt-6 max-w-2xl text-xl font-semibold text-[#404040]">
-              Lorem ipsum urna, consectetur adipiscing elit. Urna risus
-              hendrerit dignissim duis fringilla sit. Lacus porttitor neque
-              ipsum.
+            From concept to completion
+
             </p>
           </div>
           <div className="mb-20 mt-44 hidden w-full flex-col lg:mt-12 lg:inline-block lg:w-3/6">
@@ -99,7 +98,7 @@ export default function Main() {
               </div>
             </div>
           </div>
-          <div className="text-black">
+          <div className="text-black" id="about-us">
             <div
               className="
               max-w-9xl
@@ -113,14 +112,10 @@ export default function Main() {
             >
               <div className="mr-0 mb-6 w-full py-4 text-center lg:w-2/3">
                 <h2 className="mb-4 text-4xl font-bold sm:text-5xl">
-                  Sem enim cursus orci at.
+                  About Us
                 </h2>
                 <p className="mb-4 text-lg leading-relaxed">
-                  In ullamcorper magna nunc, non molestie augue feugiat eget.
-                  Mauris, vitae et, vitae et cursus amet tincidunt feugiat
-                  nulla. Senectus maecenas diam risus sodales dictum eu. Eget
-                  cursus sit bibendum pulvinar faucibus vitae nam sed. Faucibus
-                  vel laoreet.
+                At RB Construction, we're passionate about bringing your dreams to life. From conception to creation, we're committed to delivering the highest quality construction services to our clients. With years of experience in the industry, our team has the expertise and knowledge necessary to take on any project, no matter how big or small.
                 </p>
                 <a href="/" className="underline-blue font-semibold">
                   Learn more
@@ -160,17 +155,12 @@ export default function Main() {
         <div className="mx-auto px-5 pt-32 pb-24 lg:px-24">
           <div className="my-3 flex w-full flex-col text-left lg:text-center">
             <h2 className="bold mb-8 text-4xl font-bold leading-tight text-black lg:text-6xl">
-              Lorem ipsum elit sit unar,{" "}
-              <br className="hidden lg:inline-block" />
-              consectetur adipiscing elit.
+            Expertise and Experience You Can Trust
             </h2>
           </div>
           <div className="flex w-full flex-col text-left lg:text-center">
             <h3 className="text-2xl text-black">
-              Lorem ipsum arcu, consectetur adipiscing elit. Viverra elementum
-              pellentesque <br className="hidden lg:inline-block" />
-              tortor, luctus blandit sed dolor et, semper. Posuere vitae vitae,
-              ac mus. Arcu quis feugiat.
+            We pride ourselves on our ability to collaborate closely with our clients throughout the entire construction process. Our team works diligently to ensure that each project is completed on time, on budget, and to the highest standard of quality. Whether you're looking to build a new home, remodel an existing space, or undertake a commercial construction project, we're here to help.
             </h3>
           </div>
           <div className="flex w-full flex-row justify-center pt-24 text-center">
@@ -195,13 +185,10 @@ export default function Main() {
           <div className="mx-auto flex flex-col items-center px-5 pt-56 lg:flex-row">
             <div className="mb-16 flex flex-col text-left lg:mb-0 lg:w-1/2 lg:flex-grow lg:items-start lg:pr-16 lg:pr-6">
               <h2 className="mb-4 text-4xl font-bold leading-none sm:text-5xl">
-                Bibendum tortor et sit convallis nec morbi.
+              Collaborating with You Every Step of the Way
               </h2>
               <p className="font-3xl mb-8 font-semibold leading-relaxed">
-                Lorem ipsum auctor sit amet, consectetur adipiscing elit. Sit a
-                egestas tortor viverra nisl, in non. Neque viverra sollicitudin
-                amet volutpat auctor amet. Aliquam pellentesque condimentum
-                mauris sit tincidunt egestas ullamcorper sit.{" "}
+              At RB Construction, we're more than just a construction company. We're a team of dedicated professionals who are committed to excellence in everything we do. From the initial concept to the final product, we're with you every step of the way. We believe that great construction projects are built on a foundation of trust, communication, and collaboration, and we strive to embody these values in all of our work.
               </p>
             </div>
             <div className="lg:w-full lg:max-w-2xl">
@@ -215,12 +202,10 @@ export default function Main() {
               </div>
               <div className="flex flex-col pt-0 text-left lg:w-1/2 lg:flex-grow lg:items-start lg:pl-16 lg:pl-24 lg:pt-24">
                 <h2 className="mb-4 text-4xl font-bold leading-none sm:text-5xl">
-                  Eu diam in magna blandit sit magna dolor proin velit.
+                More Than Just a Construction Company
                 </h2>
                 <p className="mb-8 font-semibold leading-relaxed text-black">
-                  Lorem ipsum ac neque, consectetur adipiscing elit. Nibh neque,
-                  ut purus donec sed donec semper ac vestibulum. Mi urna,
-                  facilisis arcu, auctor elit. Ut nunc non aenean netus ut.
+                At RB Construction, we're more than just a construction company. We're a team of dedicated professionals who are committed to excellence in everything we do. From the initial concept to the final product, we're with you every step of the way. We believe that great construction projects are built on a foundation of trust, communication, and collaboration, and we strive to embody these values in all of our work.
                 </p>
               </div>
               <div className="inline-block lg:hidden lg:w-full lg:max-w-xl">
